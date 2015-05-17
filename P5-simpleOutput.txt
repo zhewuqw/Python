@@ -1,0 +1,395 @@
+/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4 /Users/QW/Documents/UNH/untitled8/homework5.py
+Processing: http://www.newhaven.edu/
+University of New Haven : University of New Haven
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+home
+Processing: http://www.newhaven.edu/prospective/
+University of New Haven : Future Students
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/current
+
+UNH Today
+Processing: http://www.newhaven.edu
+University of New Haven : University of New Haven
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+home
+Processing: http://www.newhaven.edu/families/
+University of New Haven : Parents & Families
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Veteran
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/alumni/
+University of New Haven : Alumni & Friends
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+alumni
+Processing: http://www.newhaven.edu/information
+University of New Haven : Request Information from Undergraduate Admissions
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+httpgatewaywide
+Processing: http://www.newhaven.edu/about/visitors/
+University of New Haven : Visitors & Community
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/admissions/apply/
+University of New Haven : Apply to the University of New Haven
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+httpgatewaywide
+Processing: http://www.newhaven.edu/Lifelong_eLearning/online
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/directory/
+University of New Haven : Faculty & Staff Directory
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+httpgatewaywide
+Processing: http://www.newhaven.edu/admissions/ugrad/
+University of New Haven : Undergraduate Admissions
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+undergraduateadmissions
+Processing: http://www.newhaven.edu/admissions/gradadmissions/
+University of New Haven : Graduate Admissions
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+undergraduateadmissions
+Processing: http://www.newhaven.edu/admissions/internationaladmissions/
+University of New Haven : International Admissions
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/admissions/financial
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4486/
+University of New Haven : College of Arts & Sciences
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+college
+Processing: http://www.newhaven.edu/business/
+University of New Haven : College of Business
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+college
+Processing: http://www.newhaven.edu/lee
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/lyme
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/engineering/
+University of New Haven : Tagliatela College of Engineering
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+college
+Processing: http://www.newhaven.edu/OIT/support/
+University of New Haven : IT Support
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/OIT/information
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/OIT/
+University of New Haven : Office of Information Technology (OIT)
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/student
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/cdc/
+University of New Haven : Career Development Center
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/IDEA/
+University of New Haven : Inclusion, Diversity, Equity and Access (IDEA) Council
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/public
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/IEL/study
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/top
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/
+University of New Haven : About UNH
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/
+University of New Haven : Academics
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/admissions/
+University of New Haven : Admissions
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/news
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/events/
+University of New Haven : Events
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/library/
+University of New Haven : Library 
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/supportunh/
+University of New Haven : Support UNH
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+undergraduateadmissions
+Processing: http://www.newhaven.edu/about/employment/
+University of New Haven : Employment at UNH
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/submit
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/OIT/status/
+University of New Haven : Network & Systems Status
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/online
+University of New Haven : Online Degree Programs
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Lifelong_eLearning/
+University of New Haven : College of Lifelong & eLearning
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+college
+Processing: http://www.newhaven.edu/engineering/academic
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/googlesearch/
+University of New Haven : Search newhaven.edu
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Lifelong_eLearning/atypical
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Lifelong_eLearning/dean/
+University of New Haven : Dean's Message
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/centers
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Lifelong_eLearning/mission/
+University of New Haven : Mission
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Lifelong_eLearning/staff/
+University of New Haven : College of Lifelong & eLearning Staff Directory
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Lifelong_eLearning/391174/
+University of New Haven : Alpha Sigma Lambda (ASL)
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/employment/job
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/employment/human
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/employment/directions
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/employment/equal
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/employment/wrongful
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/about/title
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/givenow
+Processing: http://www.newhaven.edu/15/
+University of New Haven : Current Students
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/cdc/4
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4/
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/grants
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4486/WNHU/
+University of New Haven : WNHU
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/Spotlight
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4486/WNHU/meet
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4486/WNHU/schedule/
+University of New Haven : WNHU Schedule
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4486/WNHU/djs
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4486/WNHU/photos/
+University of New Haven : WNHU Photos
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4486/WNHU/contact/
+University of New Haven : Contact WNHU
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/studenthandbook
+University of New Haven - Student Handbook
+Processing: http://www.newhaven.edu/academics/schedules
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/4032/
+University of New Haven : Parents & Families
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/library/common
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/commencement
+University of New Haven : Commencement
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/bursars/
+University of New Haven : Bursar's Office
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/bursars/student
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/bursars/fall
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/bursars/750041/
+University of New Haven : Bursar Forms
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/
+University of New Haven : Academic Resources
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/
+University of New Haven : Office of the University Registrar
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/regulations/
+University of New Haven : Academic Regulations
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/degree
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/diploma
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/FERPA/
+University of New Haven : FERPA Policy
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/FERPA/directory/
+University of New Haven : Directory Information
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/FERPA/release
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/forms/
+University of New Haven : Registrar Forms
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/831482
+University of New Haven : Academic Program Change Request - Grad
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+Processing: http://www.newhaven.edu/291891/
+University of New Haven : All Resource Collections
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+resource-collection
+Processing: http://www.newhaven.edu/291891
+University of New Haven : All Resource Collections
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+resource-collection
+Processing: http://www.newhaven.edu/292038/
+University of New Haven : Academics
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+resource-collection
+Processing: http://www.newhaven.edu/292038
+University of New Haven : Academics
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+resource-collection
+Processing: http://www.newhaven.edu/301001/
+University of New Haven : Registrar
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+resource-collection
+Processing: http://www.newhaven.edu/301001
+University of New Haven : Registrar
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+resource-collection
+Processing: http://www.newhaven.edu/301103
+University of New Haven : Academic Program Change Request - Undergrad
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+Processing: http://www.newhaven.edu/academics/resources/registrar/grading/
+University of New Haven : Grading Systems
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/graduation
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/staff/
+University of New Haven : Registrar's Office Staff
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/registration
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/transcript
+University of New Haven : Page Not Found
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+Processing: http://www.newhaven.edu/academics/resources/registrar/veterans/
+University of New Haven : Veterans Affairs
+University of New Haven, UNH, Chargers, Academics, Connecticut, West Haven, New Haven, New England, Northeast-10, Henry Lee, Experiential Education, Study Abroad
+inner
+
+Process finished with exit code 0
