@@ -20,7 +20,6 @@ def visit_url(url, domain):
             content_string = content.decode("utf-8")
             regexp_title = re.compile('<title>(?P<title>(.*))</title>')
             regexp_keywords = re.compile('<meta name="keywords" content="(?P<keywords>(.*))" />')
-            #regexp_identifier = re.compile('<meta name="identifier" content="(?P<identifier>(\d*))" />')
             regexp_pagetype = re.compile('<meta name="pagetype" content="(?P<pagetype>(.*))" />')
             regexp_url = re.compile("http://"+domain+"[/\w+]*")
 
